@@ -1,0 +1,4 @@
+jwt:
+  tokenHeader: Authorization
+  secret: mySecret
+  expired_date: 60000
