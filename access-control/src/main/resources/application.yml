@@ -1,0 +1,19 @@
+server:
+  port: 8090
+spring:
+#  mvc:
+#    view:
+#      prefix: /
+#      suffix: .html
+  mvc:
+    static-path-pattern: /static/**
+  thymeleaf:
+    prefix: classpath:/template/
+    suffix: .html
+    mode: HTML
+    cache: false
+    enabled: true
+    encoding: UTF-8
+  resources:
+    static-locations: classpath:/static/
+

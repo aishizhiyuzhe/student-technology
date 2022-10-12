@@ -12,6 +12,9 @@
         <module>security-jwt</module>
         <module>source-code-learning</module>
         <module>spring-task</module>
+        <module>right-control</module>
+        <module>sprirng-study</module>
+        <module>access-control</module>
     </modules>
 
 
