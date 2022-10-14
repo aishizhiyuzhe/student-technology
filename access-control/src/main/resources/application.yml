@@ -16,4 +16,3 @@ spring:
     encoding: UTF-8
   resources:
     static-locations: classpath:/static/
-
